@@ -1,2 +1,4 @@
 # Dominant-Soccer-Team_Spending
 Analyzing how teams that dominate a league spend their transfer funds either within the league or outside of it
+
+The Athletic and the Staff at Tifo Football recently released a video about why Ligue 1 was consistently ranked as the lowest of the "top 5 leagues". One key finding was that PSG, as the financial power of the league, spent much of their transfer budget on players on players outside of Ligue 1. This prevents a "trickle down" effect from PSG's substantial finances and does not allow other teams to improve their finances as a result. I wanted to see if a similar pattern held for the bundesliga with Bayern
